@@ -8,5 +8,6 @@ public class Main {
 
         double myCredit = service.calculate(1_000_000, 9.99, 12);
         System.out.println(myCredit);
+
     }
 }
